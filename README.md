@@ -7,7 +7,7 @@ by cost center and account).
 - We have a SAP SET OBZ_TIPO_DESPESA to classify the accounts the Type of Expense
 - We have a SAP SET GAC_P% sets have the accounts for spending packages
 
-## File layout to import into PowerBI
+## Excel File layout to import into PowerBI
 -----------------------------------------------
 - Empresa				      - Company in text field
 - Exercício			      - Year in text field (YYYY)
